@@ -4,7 +4,7 @@ Notebook templates meant to accompany the Callysto curriculum-notebooks repo.
 
 ## Banners
 
-We've developed Jupyter magics implementation of the Callysto banners. In Jupyter, within a code cell (Python 3):
+We've developed a Jupyter magics implementation of the Callysto banners. In Jupyter, within a code cell (Python 3):
 
 ```
 !git clone https://github.com/callysto/notebook-templates.git
@@ -12,6 +12,8 @@ We've developed Jupyter magics implementation of the Callysto banners. In Jupyte
 ```
 
 Then, restart the kernel. Use `%top_banner` and `%bottom_banner` in separate code cells to insert the top and bottom banners, respectively.
+
+These magics will be initialized upon kernel startup in any notebook.
 
 ## Contributing
 
