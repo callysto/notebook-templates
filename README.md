@@ -8,7 +8,7 @@ We've developed a Jupyter magics implementation of the Callysto banners. In Jupy
 
 ```
 !git clone https://github.com/callysto/notebook-templates.git
-!cd notebook-templates; cp banner_magics.py ~/.ipython/profile_default/startup
+!cd notebook-templates; cp -f banner_magics.py ~/.ipython/profile_default/startup
 ```
 
 Then, restart the kernel. Use `%top_banner` and `%bottom_banner` in separate code cells to insert the top and bottom banners, respectively.
