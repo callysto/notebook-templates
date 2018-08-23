@@ -10,7 +10,7 @@ from IPython.core.magic import register_line_magic
 from IPython.display import SVG
 from requests import get
 
-raw_github_url = 'https://raw.githubusercontent.com/callysto/notebook-templates/master/'
+raw_github_url = 'https://raw.githubusercontent.com/callysto/notebook-templates/master/banners/'
 top_banner_filename = 'callysto-notebook-top-banner-interactive.svg'
 bottom_banner_filename = 'callysto-notebook-bottom-banner-interactive.svg'
 
