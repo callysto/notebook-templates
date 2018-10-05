@@ -4,7 +4,7 @@
             "id": "add_d3",
             "title": "Insert an empty D3.js template via nbvis",
             "text": "D3.js",
-            "click": "alert(\"Add D3.js block!\");",
+            "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/nbvis-d3.ipynb",
             "submenu": []
         }
     ]
