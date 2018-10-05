@@ -1,0 +1,8 @@
+{
+    "templates": [
+        {
+            id: "Curriculum Notebook",
+            url: "https://raw.githubusercontent.com/callysto/notebook-templates/master/templates/curriculum-notebook-template.ipynb"
+        }
+    ]
+}
