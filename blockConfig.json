@@ -6,6 +6,13 @@
             "text": "D3.js",
             "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/nbvis-d3.ipynb",
             "submenu": []
+        },
+        {
+            "id": "add_async",
+            "title": "Insert an asyncio template",
+            "text": "Async/parallel",
+            "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/async-parallel.ipynb",
+            "submenu": []
         }
     ]
 }
