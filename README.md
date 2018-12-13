@@ -12,7 +12,7 @@ e.g.
 ```json
 {
     "id": "A sample JSON object",
-    "url": "https://raw.githubusercontent.com/</path/to/template.ipynb>",
+    "url": "https://raw.githubusercontent.com/path/to/template.ipynb",
     "someKey": "someValue"
 }
 ```
@@ -30,7 +30,7 @@ e.g.
     "id": "a_short_id",
     "title": "A description that appears as a tooltip",
     "text": "The Short Name",
-    "url": "https://raw.githubusercontent.com/</path/to/short.ipynb>",
+    "url": "https://raw.githubusercontent.com/path/to/short.ipynb",
     "someKey": "someValue",
     "submenu": [
       { ... },
