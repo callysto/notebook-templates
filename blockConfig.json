@@ -13,6 +13,13 @@
             "text": "Async/parallel",
             "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/async-parallel.ipynb",
             "submenu": []
+        },
+        {
+            "id": "geogebra_intro",
+            "title": "Get started with GeoGebra",
+            "text": "GeoGebra",
+            "url": "https://raw.githubusercontent.com/callysto/shorts/master/Geogebra.ipynb",
+            "submenu": []
         }
     ]
 }
