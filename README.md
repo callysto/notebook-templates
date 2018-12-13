@@ -3,7 +3,7 @@ This repository contains notebook templates, code snippets, and banners to accom
 
 ## Notebook Templates
 
-Templates contributed here are available in a Jupyter notebook through [`nbtemplate`](https://github.com/callysto/nbplus/tree/master/nbtemplate), one of our notebook extensions. With `nbtemplate` installed, click on the <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M96 348h320v36H96zM96 128h320v36H96zM96 200.7h320v35.6H96zM96 275.8h320v35.6H96z"/></svg> icon. Any templates found in `templateConfig.json` will be displayed, and choosing a notebook template copies its cells into the current notebook.
+Templates contributed here are available in a Jupyter notebook through [`nbtemplate`](https://github.com/callysto/nbplus/tree/master/nbtemplate), one of our notebook extensions. With `nbtemplate` installed, click on its icon. Any templates found in `templateConfig.json` will be displayed, and choosing a notebook template copies its cells into the current notebook.
 
 Contributions should be added to the `/templates` directory. Then, create an entry in `templateConfig.json` to point to the templates source url. Each entry must be a JSON object with an `id` and `url` key, at minimum.
 
