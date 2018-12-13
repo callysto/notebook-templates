@@ -19,9 +19,9 @@ e.g.
 
 ## Code Snippets
 
-We are aggregating useful snippets, "shorts," that provide minimal and self-contained examples of the many libraries, tools, and methods available to us in Jupyter. These snippets are available through [`nbtemplate`](https://github.com/callysto/nbplus/tree/master/nbtemplate). With `nbtemplate` installed, click on "Blocks" in the menubar to see a dropdown list of shorts. Selecting a short will copies it cells into the current notebook, and executes these cells.
+We are aggregating useful snippets, "shorts," that provide minimal and self-contained examples of the many libraries, tools, and methods available to us in Jupyter. These snippets are available through [`nbtemplate`](https://github.com/callysto/nbplus/tree/master/nbtemplate). With `nbtemplate` installed, click on "Blocks" in the menubar to see a dropdown list of shorts. Selecting a short copies it cells into the current notebook, and executes these cells.
 
-Contributions should be added to the `/blocks` directory. Then, create an entry in `blockConfig.json` to point to the templates source url. Each entry must be a JSON object with an `id` and `url` key, at minimum.
+Contributions should be added to the `/blocks` directory. Then, create an entry in `blockConfig.json` to point to the templates source url. Each entry must be a JSON object with an `id`, `text`, and `url` key, at minimum.
 
 e.g.
 
@@ -31,6 +31,7 @@ e.g.
     "title": "A description that appears as a tooltip",
     "text": "The Short Name",
     "url": "https://raw.githubusercontent.com/</path/to/short.ipynb>",
+    "someKey": "someValue",
     "submenu": [
       { ... },
       { ... }
