@@ -20,6 +20,13 @@
             "text": "GeoGebra",
             "url": "https://raw.githubusercontent.com/callysto/shorts/master/Geogebra.ipynb",
             "submenu": []
+        },
+        {
+            "id": "undirected_graph",
+            "title": "Insert an undirected graph snippet",
+            "text": "Undirected graph",
+            "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/force-undirected-graph.ipynb",
+            "submenu": []
         }
     ]
 }
