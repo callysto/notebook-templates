@@ -1,24 +1,17 @@
 {
     "blocks": [
         {
-            "id": "add_d3",
-            "title": "Insert an empty D3.js template via nbvis",
+            "id": "requests",
+            "title": "Insert a web requests snippet",
             "text": "D3.js",
-            "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/nbvis-d3.ipynb",
+            "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/requests.ipynb",
             "submenu": []
         },
         {
-            "id": "add_async",
-            "title": "Insert an asyncio template",
+            "id": "async",
+            "title": "Insert an asyncio snippet",
             "text": "Async/parallel",
             "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/async-parallel.ipynb",
-            "submenu": []
-        },
-        {
-            "id": "geogebra_intro",
-            "title": "Get started with GeoGebra",
-            "text": "GeoGebra",
-            "url": "https://raw.githubusercontent.com/callysto/shorts/master/Geogebra.ipynb",
             "submenu": []
         },
         {
