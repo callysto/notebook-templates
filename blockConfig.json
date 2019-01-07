@@ -3,7 +3,7 @@
         {
             "id": "requests",
             "title": "Insert a web requests snippet",
-            "text": "D3.js",
+            "text": "Requests",
             "url": "https://raw.githubusercontent.com/callysto/notebook-templates/master/blocks/requests.ipynb",
             "submenu": []
         },
