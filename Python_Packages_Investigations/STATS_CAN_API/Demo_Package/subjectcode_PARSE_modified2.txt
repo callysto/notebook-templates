@@ -1,0 +1,1767 @@
+10
+Government
+Gouvernement
+11
+Income, pensions, spending and wealth
+Revenu, pensions, dépenses et richesse
+12
+International trade
+Commerce international
+13
+Health
+Santé
+14
+Labour
+Travail
+15
+Languages
+Langues
+16
+Manufacturing
+Fabrication
+17
+Population and demography
+Population et démographie
+18
+Prices and price indexes
+Prix et indices des prix
+19
+Statistical methods
+Méthodes statistiques
+20
+Retail and wholesale
+Commerce de détail et de gros
+21
+Business and consumer services and culture
+Services aux entreprises et aux consommateurs et culture
+22
+Information and communications technology
+Technologies de l'information et des communications
+23
+Transportation
+Transport
+24
+Travel and tourism
+Voyages et tourisme
+25
+Energy
+Énergie
+27
+Science and technology
+Sciences et technologie
+32
+Agriculture
+Agriculture
+33
+Business performance and ownership
+Rendement des entreprises et appartenance
+34
+Construction
+Construction
+35
+Crime and justice
+Crime et justice
+36
+Economic accounts
+Comptes économiques
+37
+Education, training and learning
+Éducation, formation et apprentissage
+38
+Environment
+Environnement
+39
+Families and households
+Familles et ménages
+41
+Aboriginal peoples
+Peuples autochtones
+42
+Children and youth
+Enfants et jeunes
+43
+Immigration and ethnocultural diversity
+Immigration et diversité ethnoculturelle
+44
+Seniors
+Aînés
+45
+Society and community
+Société et communauté
+46
+Housing
+Logement
+1001
+Government/Balance sheets
+Gouvernement/Bilans
+1002
+Government/Employment and remuneration
+Gouvernement/Emploi et rémunération
+1003
+Government/Government business enterprises
+Gouvernement/Entreprises publiques
+1004
+Government/Monetary authorities
+Gouvernement/Autorités monétaires
+1005
+Government/Revenue and expenditures
+Gouvernement/Recettes et dépenses
+1099
+Government/Other content related to Government
+Gouvernement/Autre contenu lié à Gouvernement
+1101
+Income, pensions, spending and wealth/Household and family assets, debts and wealth
+Revenu, pensions, dépenses et richesse/Actif, endettement et richesse des ménages et des familles
+1102
+Income, pensions, spending and wealth/Household spending and savings
+Revenu, pensions, dépenses et richesse/Dépenses et épargne des ménages
+1103
+Income, pensions, spending and wealth/Household, family and personal income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers
+1104
+Income, pensions, spending and wealth/Low income and inequality
+Revenu, pensions, dépenses et richesse/Faible revenu et inégalité
+1105
+Income, pensions, spending and wealth/Pensions and retirement income programs
+Revenu, pensions, dépenses et richesse/Pensions et programmes de revenu de retraite
+1106
+Income, pensions, spending and wealth/Personal and household taxation
+Revenu, pensions, dépenses et richesse/Imposition des particuliers et des ménages
+1107
+Income, pensions, spending and wealth/Charitable donations
+Revenu, pensions, dépenses et richesse/Dons de charité
+1108
+Income, pensions, spending and wealth/High income
+Revenu, pensions, dépenses et richesse/Revenu élévé
+1199
+Income, pensions, spending and wealth/Other content related to Income, pensions, spending and wealth
+Revenu, pensions, dépenses et richesse/Autre contenu lié à Revenu, pensions, dépenses et richesse
+1201
+International trade/Merchandise imports and exports
+Commerce international/Importations et exportations de marchandises
+1202
+International trade/Service imports and exports
+Commerce international/Importations et exportations de services
+1203
+International trade/Trade patterns
+Commerce international/Structure des échanges
+1299
+International trade/Other content related to International trade
+Commerce international/Autre contenu lié à Commerce international
+1301
+Health/Disability
+Santé/Incapacité
+1302
+Health/Diseases and physical health conditions
+Santé/Maladies et état de santé physique
+1303
+Health/Environmental factors
+Santé/Facteurs environnementaux
+1304
+Health/Health care services
+Santé/Services de soins de santé
+1305
+Health/Life expectancy and deaths
+Santé/Espérance de vie et décès
+1306
+Health/Lifestyle and social conditions
+Santé/Mode de vie et conditions sociales
+1307
+Health/Mental health and well-being
+Santé/Santé mentale et bien-être
+1308
+Health/Pregnancy and births
+Santé/Grossesses et naissances
+1309
+Health/Prevention and detection of disease
+Santé/Prévention et détection de la maladie
+1310
+Health/Health measures
+Santé/Mesures de la santé
+1399
+Health/Other content related to Health
+Santé/Autre contenu lié Santé
+1401
+Labour/Earnings, wages and non-wage benefits
+Travail/Gains, salaires et avantages sociaux
+1402
+Labour/Employment and unemployment
+Travail/Emploi et chômage
+1403
+Labour/Employment insurance, social assistance and other transfers
+Travail/Assurance-emploi, aide sociale et autres transferts
+1404
+Labour/Hours of work and work arrangements
+Travail/Heures de travail et conditions de travail
+1405
+Labour/Job training and apprenticeship programs
+Travail/Formation professionnelle et programmes pour apprentis
+1406
+Labour/Job vacancies, labour mobility and layoffs
+Travail/Postes vacants, mobilité de la main-d'oeuvre et mises à pied
+1407
+Labour/Commuting to work
+Travail/Navettage vers le travail
+1408
+Labour/Globalization and the labour market
+Travail/Mondialisation et marché du travail
+1409
+Labour/Unionization and industrial relations
+Travail/Syndicalisation et relations industrielles
+1410
+Labour/Unpaid work
+Travail/Travail non rémunéré
+1411
+Labour/Work transitions and life stages
+Travail/Transitions professionnelles et stades de la vie
+1412
+Labour/Workplace organization, innovation and performance
+Travail/Organisation du milieu de travail, innovation et rendement
+1413
+Labour/Workplace health and work absences
+Travail/Santé du milieu de travail et absences du travail
+1499
+Labour/Other content related to Labour
+Travail/Autre contenu lié à Travail
+1504
+Languages/Knowledge of languages
+Langues/Connaissances des langues
+1507
+Languages/Language groups
+Langes/Groupes linguistiques
+1508
+Languages/Use of languages
+Langues/Utilisation des langues
+1599
+Languages/Other content related to Languages
+Langues/Autre contenu lié à Langues
+1601
+Manufacturing/Chemicals, plastics and rubber
+Fabrication/Produits chimiques, plastique et en caoutchouc
+1602
+Manufacturing/Food, beverage and tobacco
+Fabrication/Aliments, boissons et tabac
+1603
+Manufacturing/Machinery, computers and electronics
+Fabrication/Machines, produits informatiques et électroniques
+1604
+Manufacturing/Non-metallic mineral and metal
+Fabrication/Minéraux non métalliques et métaux
+1605
+Manufacturing/Petroleum and coal
+Fabrication/Pétrole et charbon
+1606
+Manufacturing/Textiles, clothing and leather
+Fabrication/Textiles, vêtements et cuir
+1607
+Manufacturing/Transportation equipment
+Fabrication/Matériel de transport
+1608
+Manufacturing/Wood, paper and printing
+Fabrication/Bois, papier et impression
+1609
+Manufacturing/Other manufactured products
+Fabrication/Autres produits manufacturés
+1610
+Manufacturing/Technology use
+Fabrication/Utilisation de la technologie
+1611
+Manufacturing/Innovative manufacturing plants
+Fabrication/Usines innovateurs
+1612
+Manufacturing/Fertilizer production, inventories and shipments
+Fabrication/Production, stocks et livraisons d'engrais
+1699
+Manufacturing/Other content related to Manufacturing
+Fabrication/Autre contenu lié à Fabrication
+1701
+Population and demography/Historical demographic statistics
+Population et démographie/Statistiques démographiques historiques
+1702
+Population and demography/Fertility (births)
+Population et démographie/Fécondité (naissances)
+1704
+Population and demography/Mortality (deaths)
+Population et démographie/Mortalité (décès)
+1707
+Population and demography/Internal migration
+Population et démographie/Migration interne
+1708
+Population and demography/International migration
+Population et démographie/Migration internationale
+1709
+Population and demography/Population aging
+Population et démographie/Vieillissement de la population
+1710
+Population and demography/Population estimates
+Population et démographie/Estimations démographiques
+1711
+Population and demography/Population projections
+Population et démographie/Projections démographiques
+1712
+Population and demography/Population counts
+Population et démographie/Chiffres de population
+1799
+Population and demography/Other content related to Population and demography
+Population et démographie/Autre contenu lié à Population et démographie
+1801
+Prices and price indexes/Agriculture price indexes
+Prix et indices des prix/Indices des prix de l'agriculture
+1802
+Prices and price indexes/Consumer price indexes
+Prix et indices des prix/Indices des prix à la consommation
+1803
+Prices and price indexes/Intercity and international price comparisons
+Prix et indices des prix/Comparaisons des prix intervilles et internationaux
+1804
+Prices and price indexes/International merchandise trade price indexes
+Prix et indices des prix/Indices des prix du commerce international de marchandises
+1805
+Prices and price indexes/Producer price indexes
+Prix et indices des prix/Indices des prix à la production
+1806
+Prices and price indexes/Economic accounts price indexes
+Prix et indices des prix/Indices des prix des comptes économiques
+1899
+Prices and price indexes/Other content related to Prices and price indexes
+Prix et indices des prix/Autre contenu lié à Prix et indices des prix
+1901
+Statistical methods/Administrative data
+Méthodes statistiques/Données administratives
+1902
+Statistical methods/Collection and questionnaires
+Méthodes statistiques/Collecte et questionnaires
+1903
+Statistical methods/Data analysis
+Méthodes statistiques/Analyse des données
+1904
+Statistical methods/Disclosure control and data dissemination
+Méthodes statistiques/Contrôle de la divulgation et diffusion de données
+1905
+Statistical methods/Editing and imputation
+Méthodes statistiques/Vérification et imputation
+1906
+Statistical methods/Frames and coverage
+Méthodes statistiques/Bases de sondage et couverture
+1907
+Statistical methods/History and context
+Méthodes statistiques/Histoire et contexte
+1908
+Statistical methods/Inference and foundations
+Méthodes statistiques/Inférence et fondements
+1909
+Statistical methods/Quality assurance
+Méthodes statistiques/Assurance de la qualité
+1910
+Statistical methods/Response and nonresponse
+Méthodes statistiques/Réponse et non-réponse
+1911
+Statistical methods/Simulations
+Méthodes statistiques/Simulations
+1912
+Statistical methods/Statistical techniques
+Méthodes statistiques/Techniques statistiques
+1913
+Statistical methods/Survey design
+Méthodes statistiques/Plan de sondage
+1914
+Statistical methods/Time series
+Méthodes statistiques/Séries chronologiques
+1915
+Statistical methods/Weighting and estimation
+Méthodes statistiques/Pondération et estimation
+1999
+Statistical methods/Other content related to&nbsp; Statistical methods
+Méthodes statistiques/Autre contenu lié à Méthodes statistiques
+2001
+Retail and wholesale/Retail sales by type of product
+Commerce de détail et de gros/Ventes au détail selon le type de produit
+2002
+Retail and wholesale/Retail sales by type of store
+Commerce de détail et de gros/Ventes au détail selon le type de magasin
+2003
+Retail and wholesale/Wholesale sales and inventories
+Commerce de détail et de gros/Ventes et stocks des grossistes
+2099
+Retail and wholesale/Other content related to Retail and wholesale
+Commerce de détail et de gros/Autre contenu lié à Commerce de détail et de gros
+2102
+Business and consumer services and culture/Culture
+Services aux entreprises et aux consommateurs et culture/Culture
+2104
+Business and consumer services and culture/Business and consumer services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs
+2199
+Business and consumer services and culture/Other content related to Business and consumer services and culture
+Services aux entreprises et aux consommateurs et culture/Autre contenu lié à Services aux entreprises et aux consommateurs et culture
+2203
+Information and communications technology/Information and communications technology sector
+Technologies de l'information et des communications/Secteur des technologies de l'information et des communications
+2204
+Information and communications technology/Internet use
+Technologies de l'information et des communications/Utilisation d'Internet
+2206
+Information and communications technology/Telecommunications industry
+Technologies de l'information et des communications/Industrie des télécommunications
+2207
+Information and communications technology/Television and radio industries
+Technologies de l'information et des communications/Industries de la radiodiffusion et de la télédiffusion
+2299
+Information and communications technology/Other content related to Information and communications technology
+Technologies de l'information et des communications/Autre contenu lié à Technologies de l'information et des communications
+2301
+Transportation/Air transportation
+Transport/Transport aérien
+2302
+Transportation/Couriers and messengers
+Transport/Messageries et services de messagers
+2303
+Transportation/Rail transportation
+Transport/Transport ferroviaire
+2304
+Transportation/Road transportation
+Transport/Transport routier
+2306
+Transportation/Water transportation
+Transport/Transport maritime
+2399
+Transportation/Other content related to Transportation
+Transport/Autre contenu lié à Transport
+2401
+Travel and tourism/Domestic travel
+Voyages et tourisme/Voyages intérieurs
+2402
+Travel and tourism/International travel
+Voyages et tourisme/Voyages internationaux
+2403
+Travel and tourism/Tourism employment
+Voyages et tourisme/Emploi généré par le tourisme
+2404
+Travel and tourism/Tourism indicators
+Voyages et tourisme/Indicateurs du tourisme
+2405
+Travel and tourism/Travel and traveller characteristics
+Voyages et tourisme/Caractéristiques des voyages et des voyageurs
+2499
+Travel and tourism/Other content related to Travel and tourism
+Voyages et tourisme/Autre contenu lié à Voyages et tourisme
+2501
+Energy/Crude oil and natural gas
+Énergie/Pétrole brut et gaz naturel
+2502
+Energy/Energy supply and use
+Énergie/Disponibilité et utilisation d'énergie
+2503
+Energy/Coal
+Énergie/Charbon
+2504
+Energy/Electricity
+Énergie/Électricité
+2505
+Energy/Petroleum products
+Énergie/Produits pétroliers
+2506
+Energy/Pipelines
+Énergie/Oléoducs
+2599
+Energy/Other content related to Energy
+Énergie/Autre contenu lié à Énergie
+2701
+Science and technology/Biotechnology and nanotechnology
+Sciences et technologie/Biotechnologie et nanotechnologie
+2702
+Science and technology/Human resources in science and technology
+Sciences et technologie/Ressources humaines en sciences et technologie
+2703
+Science and technology/Innovation and business strategy
+Sciences et technologie/Innovation et stratégies d'entreprise
+2704
+Science and technology/Geomatics and geospatial technologies
+Sciences et technologie/Technologies géomatiques et géospatiales
+2705
+Science and technology/Research and development
+Sciences et technologie/Recherche et développement
+2799
+Science and technology/Other content related to Science and technology
+Sciences et technologie/Autre contenu lié à Sciences et technologie
+3201
+Agriculture/Crops and horticulture
+Agriculture/Cultures et horticulture
+3202
+Agriculture/Farm financial statistics
+Agriculture/Statistiques financières des exploitations agricoles
+3203
+Agriculture/Farms and farm operators
+Agriculture/Exploitations et exploitants agricoles
+3204
+Agriculture/Livestock and aquaculture
+Agriculture/Bétail et aquaculture
+3205
+Agriculture/Food and nutrition
+Agriculture/Aliments et nutrition
+3206
+Agriculture/Land use and environmental practices
+Agriculture/Utilisation des terres et pratiques environnementales
+3207
+Agriculture/Agricultural boundary files
+Agriculture/Fichiers des limites des régions agricoles
+3299
+Agriculture/Other content related to Agriculture
+Agriculture/Autre contenu lié à Agriculture
+3301
+Business performance and ownership/Business dynamics
+Rendement des entreprises et appartenance/Dynamique des entreprises
+3302
+Business performance and ownership/Business ownership
+Rendement des entreprises et appartenance/Propriété des entreprises
+3303
+Business performance and ownership/Financial statements and performance
+Rendement des entreprises et appartenance/États financiers et rendement
+3399
+Business performance and ownership/Other content related to Business performance and ownership
+Rendement des entreprises et appartenance/Autre contenu lié à Rendement des entreprises et appartenance
+3401
+Construction/Construction materials
+Construction/Matériaux de construction
+3402
+Construction/Machinery and equipment
+Construction/Machines et matériel
+3403
+Construction/Non-residential construction
+Construction/Construction non résidentielle
+3405
+Construction/Investment in construction
+Construction/Investissements en construction
+3406
+Construction/Property values
+Construction/Valeurs des propriétés
+3407
+Construction/Capital and repair expenditures
+Construction/Dépenses en immobilisations et réparations
+3408
+Construction/Housing starts
+Construction/Mises en chantier
+3409
+Construction/Building permits
+Construction/Permis de bâtir
+3410
+Construction/Infrastructure
+Construction/Infrastructure
+3499
+Construction/Other content related to Construction
+Construction/Autre contenu lié à Construction
+3501
+Crime and justice/Correctional services
+Crime et justice/Services correctionnels
+3502
+Crime and justice/Courts
+Crime et justice/Tribunaux
+3503
+Crime and justice/Crimes and offences
+Crime et justice/Crimes et infractions
+3504
+Crime and justice/Police services
+Crime et justice/Services de police
+3505
+Crime and justice/Victimization
+Crime et justice/Victimisation
+3599
+Crime and justice/Other content related to Crime and justice
+Crime et justice/Autre contenu lié à Crime et justice
+3601
+Economic accounts/Stock and consumption of fixed capital
+Comptes économiques/Stock et consommation de capital fixe
+3602
+Economic accounts/Environment accounts
+Comptes économiques/Comptes de l'environnement
+3603
+Economic accounts/Government finance statistics
+Comptes économiques/Finances publiques
+3604
+Economic accounts/International accounts
+Comptes économiques/Comptes internationaux
+3605
+Economic accounts/National accounts and Gross Domestic Product
+Comptes économiques/Comptes nationaux et produit intérieur brut
+3606
+Economic accounts/Productivity accounts
+Comptes économiques/Comptes de la productivité
+3607
+Economic accounts/Purchasing power parities
+Comptes économiques/Parités de pouvoir d'achat
+3608
+Economic accounts/Satellite accounts
+Comptes économiques/Comptes satellites
+3699
+Economic accounts/Other content related to Economic accounts
+Comptes économiques/Autre contenu lié à Comptes économiques
+3701
+Education, training and learning/Adult learning
+Éducation, formation et apprentissage/Apprentissage des adultes
+3702
+Education, training and learning/Financial resources invested in education
+Éducation, formation et apprentissage/Ressources financières investies dans l'éducation
+3703
+Education, training and learning/Education indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation
+3704
+Education, training and learning/Educational attainment and qualifications
+Éducation, formation et apprentissage/Niveau de scolarité et qualifications
+3707
+Education, training and learning/Literacy
+Éducation, formation et apprentissage/Littératie
+3708
+Education, training and learning/Education and labour market outcomes
+Éducation, formation et apprentissage/Éducation et résultats sur le marché du travail
+3711
+Education, training and learning/Apprenticeship and trades
+Éducation, formation et apprentissage/Apprentis et métiers
+3712
+Education, training and learning/Early childhood education
+Éducation, formation et apprentissage/Éducation de la petite enfance
+3714
+Education, training and learning/Elementary and secondary education
+Éducation, formation et apprentissage/Études primaires et secondaires
+3715
+Education, training and learning/Postsecondary education
+Éducation, formation et apprentissage/Études postsecondaires
+3716
+Education, training and learning/Student pathways
+Éducation, formation et apprentissage/Cheminement des étudiants
+3799
+Education, training and learning/Other content related to Education, training and learning
+Éducation, formation et apprentissage/Autre contenu lié à Éducation, formation et apprentissage
+3801
+Environment/Air and climate
+Environnement/Air et climat
+3802
+Environment/Environmental quality
+Environnement/Qualité de l'environnement
+3803
+Environment/Environmental protection
+Environnement/Protection de l'environnement
+3804
+Environment/Natural resources
+Environnement/Ressources naturelles
+3807
+Environment/Pollution and waste
+Environnement/Pollution et déchets
+3808
+Environment/Household environmental practices
+Environnement/Pratiques environnementales des ménages
+3809
+Environment/Ecoregion profiles
+Environnement/Profils d'écorégions
+3810
+Environment/Natural disasters
+Environnement/Désastres naturels
+3811
+Environment/Flora and fauna
+Environnement/Flore et faune
+3899
+Environment/Other content related to Environment
+Environnement/Autre contenu lié à Environnement
+3901
+Families and households/Divorce and separation
+Familles et ménages/Divorce et séparation
+3902
+Families and households/Families
+Familles et ménages/Familles
+3903
+Families and households/Households
+Familles et ménages/Ménages
+3905
+Families and households/Individuals
+Familles et ménages/Particuliers
+3906
+Families and households/Marriage and common-law unions
+Familles et ménages/Mariage et union libre
+3999
+Families and households/Other content related to Families and households
+Familles et ménages/Autre contenu lié à Familles et ménages
+4101
+Aboriginal peoples/Demographic characteristics and aboriginal groups
+Peuples autochtones/Caractéristiques démographiques et groupes autochtones
+4102
+Aboriginal peoples/Learning and skills
+Peuples autochtones/Apprentissage et compétences
+4103
+Aboriginal peoples/Health and well-being
+Peuples autochtones/Santé et bien-être
+4104
+Aboriginal peoples/Crime and victimization
+Peuples autochtones/Criminalité et victimisation
+4105
+Aboriginal peoples/Language and culture
+Peuples autochtones/Langues et cultures
+4106
+Aboriginal peoples/Living arrangements and housing
+Peuples autochtones/Situation des particuliers et logement
+4107
+Aboriginal peoples/Work
+Peuples autochtones/Travail
+4108
+Aboriginal peoples/Income and spending
+Peuples autochtones/Revenu et dépenses
+4109
+Aboriginal peoples/Aboriginal population profiles
+Peuples autochtones/Profils de la population autochtone
+4110
+Aboriginal peoples/Aboriginal children
+Peuples autochtones/Enfants autochtones
+4199
+Aboriginal peoples/Other content related to Aboriginal peoples
+Peuples autochtones/Autre contenu lié à Peuples autochtones
+4201
+Children and youth/Child development and behaviour
+Enfants et jeunes/Développement et comportement de l'enfant
+4202
+Children and youth/Education
+Enfants et jeunes/Éducation
+4203
+Children and youth/Health of children and youth
+Enfants et jeunes/Santé des enfants et des jeunes
+4204
+Children and youth/Immigrant children and youth
+Enfants et jeunes/Enfants et jeunes immigrants
+4205
+Children and youth/Labour market activities for youth
+Enfants et jeunes/Activités sur le marché du travail pour les jeunes
+4206
+Children and youth/Low income families
+Enfants et jeunes/Familles à faible revenu
+4209
+Children and youth/Violence among children and youth
+Enfants et jeunes/Violence chez les enfants et les jeunes
+4210
+Children and youth/Child care
+Enfants et jeunes/Soins aux enfants
+4211
+Children and youth/Youth crime and justice
+Enfants et jeunes/Crime et justice chez les jeunes
+4213
+Children and youth/Children at home
+Enfants et jeunes/Présence d'enfants à la maison
+4299
+Children and youth/Other content related to Children and youth
+Enfants et jeunes/Autre contenu lié à Enfants et jeunes
+4301
+Immigration and ethnocultural diversity/Citizenship
+Immigration et diversité ethnoculturelle/Citoyenneté
+4303
+Immigration and ethnocultural diversity/Generations in Canada
+Immigration et diversité ethnoculturelle/Générations au Canada
+4305
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents
+4308
+Immigration and ethnocultural diversity/Visible minorities
+Immigration et diversité ethnoculturelle/Minorités visibles
+4309
+Immigration and ethnocultural diversity/Ethnicity
+Immigration et diversité ethnoculturelle/Origine ethnique
+4310
+Immigration and ethnocultural diversity/Religious affiliation
+Immigration et diversité ethnoculturelle/Appartenance religieuse
+4399
+Immigration and ethnocultural diversity/Other content related to Immigration and ethnocultural diversity
+Immigration et diversité ethnoculturelle/Autre contenu relié à Immigration et diversité ethnoculturelle
+4401
+Seniors/Health and disability among seniors
+Aînés/Santé et incapacité chez les aînés
+4402
+Seniors/Income, pensions and wealth
+Aînés/Revenu, pension et patrimoine
+4403
+Seniors/Work and retirement
+Aînés/Travail et retraite
+4404
+Seniors/Care and social support
+Aînés/Soins et soutien social
+4405
+Seniors/Elder abuse and victimization
+Aînés/Victimisation et abus envers les aînés
+4406
+Seniors/Housing and living arrangements of seniors
+Aînés/Logement et situation dans le ménage des aînés
+4499
+Seniors/Other content related to Seniors
+Aînés/Autre contenu lié à Aînés
+4501
+Society and community/Religion
+Société et communauté/Religion
+4502
+Society and community/Rural Canada
+Société et communauté/Canada rural
+4503
+Society and community/Civic participation
+Société et communauté/Participation communautaire
+4504
+Society and community/Time use
+Société et communauté/Emploi du temps
+4505
+Society and community/Volunteering and donating
+Société et communauté/Don et bénévolat
+4506
+Society and community/Women and gender
+Société et communauté/Femmes et rapports entre les sexes
+4507
+Society and community/Equity and inclusion
+Société et communauté/Égalité et inclusion
+4508
+Society and community/Social and personal networks
+Société et communauté/Réseaux sociaux et personnels
+4509
+Society and community/Cannabis
+Société et communauté/Cannabis
+4599
+Society and community/Other content related to Society and community
+Société et communauté/Autre contenue lié à&nbsp; Société et communauté
+4601
+Housing/Dwelling characteristics
+Logement/Caractéristiques du logement
+4602
+Housing/Housing costs and affordability
+Logement/Coût de l'habitation et abordabilité du logement
+4603
+Housing/Housing price indexes
+Logement/Indices des prix des logements
+4604
+Housing/Housing and living arrangements
+Logement/Logement et situation dans le ménage
+4605
+Housing/Residential construction and investment
+Logement/Construction résidentielle et investissements
+4606
+Housing/Vacancy rates
+Logement/Taux d'inoccupation
+4699
+Housing/Other content related to Housing
+Logement/Autre contenu lié à Logement
+110101
+Income, pensions, spending and wealth/Household and family assets, debts and wealth/Household and family debt
+Revenu, pensions, dépenses et richesse/Actif, endettement et richesse des ménages et des familles/Endettement des ménages et des familles
+110102
+Income, pensions, spending and wealth/Household and family assets, debts and wealth/Net worth
+Revenu, pensions, dépenses et richesse/Actif, endettement et richesse des ménages et des familles/Valeur nette
+110199
+Income, pensions, spending and wealth/Household and family assets, debts and wealth/Other content related to Household and family assets, debts and wealth
+Revenu, pensions, dépenses et richesse/Actif, endettement et richesse des ménages et des familles/Autre contenu lié à Actif, endettement et richesse des ménages et des familles
+110201
+Income, pensions, spending and wealth/Household spending and savings/Household spending
+Revenu, pensions, dépenses et richesse/Dépenses et épargne des ménages/Dépenses des ménages
+110202
+Income, pensions, spending and wealth/Household spending and savings/Shelter costs
+Revenu, pensions, dépenses et richesse/Dépenses et épargne des ménages/Coûts d'habitation
+110203
+Income, pensions, spending and wealth/Household spending and savings/Savings
+Revenu, pensions, dépenses et richesse/Dépenses et épargne des ménages/Épargne
+110299
+Income, pensions, spending and wealth/Household spending and savings/Other content related to Household spending and savings
+Revenu, pensions, dépenses et richesse/Dépenses et épargne des ménages/Autre contenu lié à Dépenses et épargne des ménages
+110301
+Income, pensions, spending and wealth/Household, family and personal income/Family income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers/Revenu des familles
+110302
+Income, pensions, spending and wealth/Household, family and personal income/Household income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers/Revenu des ménages
+110303
+Income, pensions, spending and wealth/Household, family and personal income/Personal income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers/Revenu des particuliers
+110304
+Income, pensions, spending and wealth/Household, family and personal income/Sources of income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers/Sources de revenu
+110399
+Income, pensions, spending and wealth/Household, family and personal income/Other content related to Household, family and personal income
+Revenu, pensions, dépenses et richesse/Revenu des ménages, des familles et des particuliers/Autre contenu lié à Revenu des ménages, des familles et des particuliers
+110401
+Income, pensions, spending and wealth/Low income and inequality/Income inequality
+Revenu, pensions, dépenses et richesse/Faible revenu et inégalité/Inégalité
+110402
+Income, pensions, spending and wealth/Low income and inequality/Low income
+Revenu, pensions, dépenses et richesse/Faible revenu et inégalité/Faible revenu
+110499
+Income, pensions, spending and wealth/Low income and inequality/Other content related to Low income and inequality
+Revenu, pensions, dépenses et richesse/Faible revenu et inégalité/Autre contenu lié à Faible revenu et inégalité
+110501
+Income, pensions, spending and wealth/Pensions and retirement income programs/Pension plans and funds
+Revenu, pensions, dépenses et richesse/Pensions et programmes de revenu de retraite/Régimes et fonds de pension
+110502
+Income, pensions, spending and wealth/Pensions and retirement income programs/Registered Retirement Savings Plan (RRSP)
+Revenu, pensions, dépenses et richesse/Pensions et programmes de revenu de retraite/Régime enregistré d'épargne-retraite (REER)
+110503
+Income, pensions, spending and wealth/Pensions and retirement income programs/Retirement planning
+Revenu, pensions, dépenses et richesse/Pensions et programmes de revenu de retraite/Planification de la retraite
+110599
+Income, pensions, spending and wealth/Pensions and retirement income programs/Other content related to Pensions and retirement income programs
+Revenu, pensions, dépenses et richesse/Pensions et programmes de revenu de retraite/Autre contenu lié à Pensions et programmes de revenu de retraite
+110601
+Income, pensions, spending and wealth/Personal and household taxation/Income taxes
+Revenu, pensions, dépenses et richesse/Imposition des particuliers et des ménages/Impôt sur le revenu
+110602
+Income, pensions, spending and wealth/Personal and household taxation/Property taxes
+Revenu, pensions, dépenses et richesse/Imposition des particuliers et des ménages/Impôt foncier
+110699
+Income, pensions, spending and wealth/Personal and household taxation/Other content related to Personal and household taxation
+Revenu, pensions, dépenses et richesse/Imposition des particuliers et des ménages/Autre contenu lié à Imposition des particuliers et des ménages
+130201
+Health/Diseases and physical health conditions/Arthritis
+Santé/Maladies et état de santé physique/Arthrite
+130203
+Health/Diseases and physical health conditions/Cancer
+Santé/Maladies et état de santé physique/Cancer
+130204
+Health/Diseases and physical health conditions/Cardiovascular diseases
+Santé/Maladies et état de santé physique/Maladies cardiovasculaires
+130205
+Health/Diseases and physical health conditions/Diabetes
+Santé/Maladies et état de santé physique/Diabète
+130206
+Health/Diseases and physical health conditions/Blood pressure
+Santé/Maladies et état de santé physique/Tension artérielle
+130207
+Health/Diseases and physical health conditions/Influenza
+Santé/Maladies et état de santé physique/Grippe
+130208
+Health/Diseases and physical health conditions/Injuries
+Santé/Maladies et état de santé physique/Blessures
+130209
+Health/Diseases and physical health conditions/Body weight and obesity
+Santé/Maladies et état de santé physique/Poids corporel et l'obésité
+130210
+Health/Diseases and physical health conditions/Pain and discomfort
+Santé/Maladies et état de santé physique/Douleurs et malaises
+130211
+Health/Diseases and physical health conditions/Neurological conditions
+Santé/Maladies et état de santé physique/Problèmes neurologiques
+130212
+Health/Diseases and physical health conditions/Sexually transmitted diseases
+Santé/Maladies et état de santé physique/Maladies transmissibles sexuellement
+130218
+Health/Diseases and physical health conditions/Asthma
+Santé/Maladies et état de santé physique/Asthme
+130219
+Health/Diseases and physical health conditions/Chronic obstructive pulmonary disease
+Santé/Maladies et état de santé physique/Maladie pulmonaire obstructive chronique
+130221
+Health/Diseases and physical health conditions/Chronic conditions
+Santé/Maladies et état de santé physique/Maladies chroniques
+130299
+Health/Diseases and physical health conditions/Other content related to Diseases and physical health conditions
+Santé/Maladies et état de santé physique/Autre contenu lié à Maladies et état de santé physique
+130301
+Health/Environmental factors/Exposure to chemicals
+Santé/Facteurs environnementaux/Exposition aux produits chimiques
+130302
+Health/Environmental factors/Second-hand smoke
+Santé/Facteurs environnementaux/Fumée secondaire
+130303
+Health/Environmental factors/Heavy metals
+Santé/Facteurs environnementaux/Métaux lourds
+130399
+Health/Environmental factors/Other content related to Environmental factors
+Santé/Facteurs environnementaux/Autre contenu lié à Facteurs environnementaux
+130401
+Health/Health care services/Access to health care
+Santé/Services de soins de santé/Accès aux soins de santé
+130402
+Health/Health care services/Hospitalization
+Santé/Services de soins de santé/Hospitalisation
+130403
+Health/Health care services/Patient satisfaction
+Santé/Services de soins de santé/Satisfaction des patients
+130404
+Health/Health care services/Health care providers
+Santé/Services de soins de santé/Fournisseurs de soins de santé
+130405
+Health/Health care services/Residential care
+Santé/Services de soins de santé/Soins pour bénéficiaires internes
+130406
+Health/Health care services/Home care and caregivers
+Santé/Services de soins de santé/Soins à domicile et aidants
+130499
+Health/Health care services/Other content related to Health care services
+Santé/Services de soins de santé/Autre contenu lié à Services de soins de santé
+130501
+Health/Life expectancy and deaths/Causes of death
+Santé/Espérance de vie et décès/Causes de décès
+130502
+Health/Life expectancy and deaths/Infant mortality and fetal deaths (stillbirths)
+Santé/Espérance de vie et décès/Mortalité infantile et morts foetales (mortinaissances)
+130503
+Health/Life expectancy and deaths/Life expectancy
+Santé/Espérance de vie et décès/Espérance de vie
+130504
+Health/Life expectancy and deaths/Mortality and death rates
+Santé/Espérance de vie et décès/Mortalité et taux de mortalité
+130506
+Health/Life expectancy and deaths/Survival rates
+Santé/Espérance de vie et décès/Taux de survie
+130599
+Health/Life expectancy and deaths/Other content related to Life expectancy and deaths
+Santé/Espérance de vie et décès/Autre contenu lié à Espérance de vie et décès
+130601
+Health/Lifestyle and social conditions/Alcohol and drug use
+Santé/Mode de vie et conditions sociales/Consommation d'alcool et de drogues
+130602
+Health/Lifestyle and social conditions/Nutrition
+Santé/Mode de vie et conditions sociales/Nutrition
+130603
+Health/Lifestyle and social conditions/Physical activity
+Santé/Mode de vie et conditions sociales/Activité physique
+130604
+Health/Lifestyle and social conditions/Smoking
+Santé/Mode de vie et conditions sociales/Tabagisme
+130605
+Health/Lifestyle and social conditions/Prescription drug use
+Santé/Mode de vie et conditions sociales/Consommation de médicaments sur ordonnance
+130606
+Health/Lifestyle and social conditions/Sense of community belonging
+Santé/Mode de vie et conditions sociales/Sentiment d'appartenance à la communauté locale
+130607
+Health/Lifestyle and social conditions/Food insecurity
+Santé/Mode de vie et conditions sociales/Insécurité alimentaire
+130608
+Health/Lifestyle and social conditions/Socioeconomic conditions and health
+Santé/Mode de vie et conditions sociales/Conditions socioéconomiques et la santé
+130699
+Health/Lifestyle and social conditions/Other content related to Lifestyle and social conditions
+Santé/Mode de vie et conditions sociales/Autre contenu lié à Mode de vie et conditions sociales
+130701
+Health/Mental health and well-being/Depression
+Santé/Santé mentale et bien-être/Dépression
+130702
+Health/Mental health and well-being/Emotional disorders
+Santé/Santé mentale et bien-être/Troubles affectifs
+130703
+Health/Mental health and well-being/Mental illness
+Santé/Santé mentale et bien-être/Maladies mentales
+130704
+Health/Mental health and well-being/Stress
+Santé/Santé mentale et bien-être/Stress
+130706
+Health/Mental health and well-being/Mental health care
+Santé/Santé mentale et bien-être/Soins de santé mentale
+130707
+Health/Mental health and well-being/Perceived or self-rated health
+Santé/Santé mentale et bien-être/Santé perçue ou auto-évaluation de la santé
+130708
+Health/Mental health and well-being/Suicide
+Santé/Santé mentale et bien-être/Suicide
+130799
+Health/Mental health and well-being/Other content related to Mental health and well-being
+Santé/Santé mentale et bien-être/Autre contenu lié à Santé mentale et bien-être
+130801
+Health/Pregnancy and births/Birth weight
+Santé/Grossesses et naissances/Poids à la naissance
+130802
+Health/Pregnancy and births/Births and birth rates
+Santé/Grossesses et naissances/Naissances et taux de fécondité
+130803
+Health/Pregnancy and births/Breastfeeding
+Santé/Grossesses et naissances/Allaitement maternel
+130804
+Health/Pregnancy and births/Pregnancy
+Santé/Grossesses et naissance/Grossesse
+130805
+Health/Pregnancy and births/Abortion
+Santé/Grossesses et naissances/Avortement
+130899
+Health/Pregnancy and births/Other content related to Pregnancy and births
+Santé/Grossesses et naissances/Autre contenu lié à Grossesses et aux naissances
+140101
+Labour/Earnings, wages and non-wage benefits/Earnings and wages by occupation, industry or sector
+Travail/Gains, salaires et avantages sociaux/Gains et salaires selon la profession, l'industrie ou le secteur
+140102
+Labour/Earnings, wages and non-wage benefits/Earnings and wages by region or location
+Travail/Gains, salaires et avantages sociaux/Gains et salaires selon la région ou le lieu
+140103
+Labour/Earnings, wages and non-wage benefits/Earnings by age or sex
+Travail/Gains, salaires et avantages sociaux/Gains selon l'âge ou le sexe
+140104
+Labour/Earnings, wages and non-wage benefits/Earnings of immigrants
+Travail/Gains, salaires et avantages sociaux/Gains des immigrants
+140105
+Labour/Earnings, wages and non-wage benefits/Education, skills and earnings
+Travail/Gains, salaires et avantages sociaux/Éducation, compétences et gains
+140106
+Labour/Earnings, wages and non-wage benefits/Minimum wage or low-paid work
+Travail/Gains, salaires et avantages sociaux/Salaire minimum ou travail peu rémunéré
+140107
+Labour/Earnings, wages and non-wage benefits/Non-wage benefits
+Travail/Gains, salaires et avantages sociaux/Avantages sociaux
+140108
+Labour/Earnings, wages and non-wage benefits/Parents, families and earnings
+Travail/Gains, salaires et avantages sociaux/Parents, familles et gains
+140199
+Labour/Earnings, wages and non-wage benefits/Other content related to Earnings, wages and non-wage benefits
+Travail/Gains, salaires et avantages sociaux/Autre contenu lié à Gains, salaires et avantages sociaux
+140201
+Labour/Employment and unemployment/Employment by occupation, industry or sector
+Travail/Emploi et chômage/Emploi selon la profession, l'industrie ou le secteur
+140202
+Labour/Employment and unemployment/Education and the labour market
+Travail/Emploi et chômage/Éducation et marché du travail
+140203
+Labour/Employment and unemployment/Regional labour markets
+Travail/Emploi et chômage/Marchés du travail régionaux
+140204
+Labour/Employment and unemployment/Immigrants in the labour market
+Travail/Emploi et chômage/Immigrants sur le marché du travail
+140205
+Labour/Employment and unemployment/Labour force characteristics
+Travail/Emploi et chômage/Caractéristiques de la population active
+140207
+Labour/Employment and unemployment/Unemployment
+Travail/Emploi et chômage/Chômage
+140208
+Labour/Employment and unemployment/Women in the labour market
+Travail/Emploi et chômage/Femmes sur le marché du travail
+140209
+Labour/Employment and unemployment/Youth and young adults in the labour market
+Travail/Emploi et chômage/Jeunes et jeunes adultes sur le marché du travail
+140210
+Labour/Employment and unemployment/Aboriginal peoples and the labour market
+Travail/Emploi et chômage/Peuples autochtones et marché du travail
+140211
+Labour/Employment and unemployment/Labour market overview
+Travail/Emploi et chômage/Aperçu du marché du travail
+140299
+Labour/Employment and unemployment/Other content related to Employment and unemployment
+Travail/Emploi et chômage/Autre contenu lié à Emploi et chômage
+140401
+Labour/Hours of work and work arrangements/Hours of work
+Travail/Heures de travail et conditions de travail/Heures de travail
+140402
+Labour/Hours of work and work arrangements/Part-time and non-permanent employment
+Travail/Heures de travail et conditions de travail/Emplois à temps partiel et non permanents
+140403
+Labour/Hours of work and work arrangements/Self-employment
+Travail/Heures de travail et conditions de travail/Travail autonome
+140404
+Labour/Hours of work and work arrangements/Working from home
+Travail/Heures de travail et conditions de travail/Travail à domicile
+140499
+Labour/Hours of work and work arrangements/Other content related to Hours of work and work arrangements
+Travail/Heures de travail et conditions de travail/Autre contenu lié&nbsp;à Heures de travail et conditions de travail
+150401
+Languages/Knowledge of languages/Aboriginal languages
+Langues/Connaissance des langues/Langues autochtones
+150402
+Languages/Knowledge of languages/Immigrant languages
+Langues/Connaissance des langues/Langues immigrantes
+150403
+Languages/Knowledge of languages/Official languages and English-French bilingualism
+Langues/Connaissance des langues/Langues officielles et bilinguisme français-anglais
+150499
+Languages/Knowledge of languages/Other content related to Knowledge of languages
+Langues/Connaissance des langues/Autre contenu lié à Connaissance des langues
+150701
+Languages/Language groups/First official language spoken
+Langues/Groupes linguistiques/Première langue officielle parlée
+150702
+Languages/Language groups/Mother tongue
+Langues/Groupes linguistiques/Langue maternelle
+150703
+Languages/Language groups/Official language minorities
+Langues/Groupes linguistiques/Minorités de langue officielle
+150799
+Languages/Language groups/Other content related to Language groups
+Langues/Groupes linguistiques/Autre contenu lié à Groupes linguistiques
+150801
+Languages/Use of languages/Languages spoken at home
+Langues/Utilisation des langues/Langues parlées à la maison
+150802
+Languages/Use of languages/Languages used at work
+Langues/Utilisation des langues/Langues utilisées au travail
+150899
+Languages/Use of languages/Other content related to Use of languages
+Langues/Utilisation des langues/Autre contenu lié à Utilisation des langues
+170801
+Population and demography/International migration/Emigration
+Population et démographie/Migration internationale/Émigration
+170802
+Population and demography/International migration/Immigration
+Population et démographie/Migration internationale/Immigration
+170803
+Population and demography/International migration/Non-permanent residents
+Population et démographie/Migration internationale/Résidents non permanents
+170899
+Population and demography/International migration/Other content related to International migration
+Population et démographie/Migration internationale/Autre contenu lié à Migration internationale
+171001
+Population and demography/Population estimates/Annual population estimates
+Population et démographie/Estimations démographiques/Estimations démographiques annuelles
+171003
+Population and demography/Population estimates/Quarterly population estimates
+Population et démographie/Estimations démographiques/Estimations démographiques trimestrielles
+171004
+Population and demography/Population estimates/Subprovincial population estimates
+Population et démographie/Estimations démographiques/Estimations démographiques infraprovinciales
+171099
+Population and demography/Population estimates/Other content related to Population estimates
+Population et démographie/Estimations démographiques/Autre contenu lié à&nbsp; Estimations démographiques
+171101
+Population and demography/Population projections/Aboriginal population
+Population et démographie/Projections démographiques/Population autochtone
+171102
+Population and demography/Population projections/Ethnocultural diversity
+Population et démographie/Projections démographiques/Diversité ethnoculturelle
+171103
+Population and demography/Population projections/Labour force
+Population et démographie/Projections démographiques/Population active
+171104
+Population and demography/Population projections/Population projections by provinces and territories
+Population et démographie/Projections démographiques/Projections démographiques selon les provinces et les territoires
+171199
+Population and demography/Population projections/Other content related to Population projections
+Population et démographie/Projections démographiques/Autre contenu lié à&nbsp; Projections démographiques
+171201
+Population and demography/Population counts/Age and sex
+Population et démographie/Chiffres de population/Âge et sexe
+171202
+Population and demography/Population counts/Total population counts
+Population et démographie/Chiffres de population/Chiffres totals de population
+171203
+Population and demography/Population counts/Families and marital status
+Population et démographie/Chiffres de population/Familles et état matrimonial
+171299
+Population and demography/Population counts/Other content related to Population counts
+Population et démographie/Chiffres de population/Autre contenu lié à Chiffres de population
+180501
+Prices and price indexes/Producer price indexes/Construction price indexes
+Prix et indices des prix/Indices des prix à la production/Indices des prix à la construction
+180502
+Prices and price indexes/Producer price indexes/Industrial product price indexes
+Prix et indices des prix/Indices des prix à la production/Indices des prix des produits industriels
+180503
+Prices and price indexes/Producer price indexes/Machinery and equipment price indexes
+Prix et indices des prix/Indices des prix à la production/Indices des prix des machines et du matériel
+180504
+Prices and price indexes/Producer price indexes/Service price indexes
+Prix et indices des prix/Indices des prix à la production/Indices des prix des services
+180599
+Prices and price indexes/Producer price indexes/Other content related to Producer price indexes
+Prix et indices des prix/Indices des prix à la production/Autre contenu lié à Indices des prix à la production
+210201
+Business and consumer services and culture/Culture/Film, television and video production
+Services aux entreprises et aux consommateurs et culture/Culture/Production cinématographique, télévisuelle et vidéo
+210202
+Business and consumer services and culture/Culture/Trade in culture goods and services
+Services aux entreprises et aux consommateurs et culture/Culture/Commerce des biens et de services de la culture
+210203
+Business and consumer services and culture/Culture/Music and performing arts
+Services aux entreprises et aux consommateurs et culture/Culture/Musique et arts du spectacle
+210204
+Business and consumer services and culture/Culture/Publishing
+Services aux entreprises et aux consommateurs et culture/Culture/Édition
+210206
+Business and consumer services and culture/Culture/Radio and television broadcasting
+Services aux entreprises et aux consommateurs et culture/Culture/Radiodiffusion et télédiffusion
+210299
+Business and consumer services and culture/Culture/Other content related to Culture
+Services aux entreprises et aux consommateurs et culture/Culture/Autre contenu lié à Culture
+210401
+Business and consumer services and culture/Business and consumer services/Accounting and consulting services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services de comptabilité et de conseils
+210402
+Business and consumer services and culture/Business and consumer services/Advertising services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services de publicité
+210404
+Business and consumer services and culture/Business and consumer services/Rental, leasing and real estate services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services immobiliers et services de location et de location à bail
+210407
+Business and consumer services and culture/Business and consumer services/Architect, engineering, design and surveying and mapping services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services d'architecte, d'ingéniere, de conception et de prospection, d'arpentage et de cartographie
+210408
+Business and consumer services and culture/Business and consumer services/Accommodation and food services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Hébergement et services de restauration
+210409
+Business and consumer services and culture/Business and consumer services/Sports and leisure
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Sports et loisirs
+210410
+Business and consumer services and culture/Business and consumer services/Software development and computer services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Développement de logiciels et les services informatiques
+210411
+Business and consumer services and culture/Business and consumer services/Repair and maintenance services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services de réparation et d'entretien
+210412
+Business and consumer services and culture/Business and consumer services/Employment services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services d'emploi
+210413
+Business and consumer services and culture/Business and consumer services/Travel agencies and tour operators
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Agences de voyages et voyagistes
+210414
+Business and consumer services and culture/Business and consumer services/Personal services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Services personnels
+210499
+Business and consumer services and culture/Business and consumer services/Other content related to Business and consumer services
+Services aux entreprises et aux consommateurs et culture/Services aux entreprises et aux consommateurs/Autre contenu lié à Services aux entreprises et aux consommateurs
+220401
+Information and communications technology/Internet use/Business and government Internet use
+Technologies de l'information et des communications/Utilisation d'Internet/Utilisation d'Internet par les entreprises et les gouvernements
+220402
+Information and communications technology/Internet use/E-commerce
+Technologies de l'information et des communications/Utilisation d'Internet/Commerce électronique
+220403
+Information and communications technology/Internet use/Individual and household Internet use
+Technologies de l'information et des communications/Utilisation d'Internet/Utilisation d'Internet par les particuliers et les ménages
+220499
+Information and communications technology/Internet use/Other content related to Internet use
+Technologies de l'information et des communications/Utilisation d'Internet/Autre contenu lié à Utilisation d'Internet
+230101
+Transportation/Air transportation/Air fares
+Transport/Transport aérien/Tarifs aériens
+230102
+Transportation/Air transportation/Air passenger origin and destination
+Transport/Transport aérien/Origine et destination des passagers aériens
+230103
+Transportation/Air transportation/Aircraft movements
+Transport/Transport aérien/Mouvements d'aéronefs
+230104
+Transportation/Air transportation/Airport activity
+Transport/Transport aérien/Activité aéroportuaire
+230105
+Transportation/Air transportation/Aviation financial and operating statistics
+Transport/Transport aérien/Statistiques financières et d'exploitation de l'aviation
+230199
+Transportation/Air transportation/Other content related to Air transportation
+Transport/Transport aérien/Autre contenu lié à Transport aérien
+230401
+Transportation/Road transportation/Trucking industry
+Transport/Transport routier/Industrie du camionnage
+230402
+Transportation/Road transportation/Motor vehicles
+Transport/Transport routier/Véhicules automobiles
+230403
+Transportation/Road transportation/Passenger bus and transit industries
+Transport/Transport routier/Industries du transport de passagers par autobus et du transport
+230404
+Transportation/Road transportation/Passenger-kilometres
+Transport/Transport routier/Passagers-kilomètres
+230405
+Transportation/Road transportation/Vehicle-kilometres
+Transport/Transport routier/Véhicules-kilomètres
+230499
+Transportation/Road transportation/Other content related to Road transportation
+Transport/Transport routier/Autre contenu lié à Transport routier
+270301
+Science and technology/Innovation and business strategy/Software licensing and advanced technology use
+Sciences et technologie/Innovation et stratégies d'entreprise/Licence de logiciel et utilisation des technologies de pointe
+270302
+Science and technology/Innovation and business strategy/Products and processes
+Sciences et technologie/Innovation et stratégies d'entreprise/Produits et processus
+270303
+Science and technology/Innovation and business strategy/Enterprise and subsidiary activities
+Sciences et technologie/Innovation et stratégies d'entreprise/Activités des entreprises et des filiales
+270304
+Science and technology/Innovation and business strategy/Organizational and management practices
+Sciences et technologie/Innovation et stratégies d'entreprise/Pratiques organisationnelles et de gestion
+270305
+Science and technology/Innovation and business strategy/Industrial activities
+Sciences et technologie/Innovation et stratégies d'entreprise/Activités industrielles
+270306
+Science and technology/Innovation and business strategy/Patents, copyrights and trademarks
+Sciences et technologie/Innovation et stratégies d'entreprise/Brevets, droits d'auteur et marques de commerce
+270399
+Science and technology/Innovation and business strategy/Other content related to Innovation and business strategy
+Sciences et technologie/Innovation et stratégies d'entreprise/Autre contenu lié à Innovation et stratégies d'entreprise
+270501
+Science and technology/Research and development/Institutional expenditures and activities
+Sciences et technologie/Recherche et développement/Dépenses et activités du secteur institutionnel
+270502
+Science and technology/Research and development/Private expenditures and activities
+Sciences et technologie/Recherche et développement/Dépenses et activités du secteur privé
+270503
+Science and technology/Research and development/Public expenditures and activities
+Sciences et technologie/Recherche et développement/Dépenses et activités du secteur public
+270505
+Science and technology/Research and development/Health expenditures and activities
+Sciences et technologie/Recherche et développement/Dépenses et activités du secteur de la santé
+270599
+Science and technology/Research and development/Other content related to Research and development
+Sciences et technologie/Recherche et développement/Autre contenu lié à Recherche et développement
+320101
+Agriculture/Crops and horticulture/Grains and field crops
+Agriculture/Cultures et horticulture/Grains et grandes cultures
+320102
+Agriculture/Crops and horticulture/Vegetables
+Agriculture/Cultures et horticulture/Légumes
+320104
+Agriculture/Crops and horticulture/Fruits, berries and nuts
+Agriculture/Cultures et horticulture/Fruits, petits fruits et noix
+320105
+Agriculture/Crops and horticulture/Greenhouses and nurseries
+Agriculture/Cultures et horticulture/Serres et pépinières
+320106
+Agriculture/Crops and horticulture/Organic farming and genetic modification
+Agriculture/Cultures et horticulture/Agriculture biologique et modification génétique
+320107
+Agriculture/Crops and horticulture/Maple, honey and bees
+Agriculture/Cultures et horticulture/L'Érable, miel et abeilles
+320199
+Agriculture/Crops and horticulture/Other content related to Crops and horticulture
+Agriculture/Cultures et horticulture/Autre contenu lié à Cultures et horticulture
+320201
+Agriculture/Farm financial statistics/Farm revenue and expenses
+Agriculture/Statistiques financières des exploitations agricoles/Revenu et dépenses d'exploitation agricole
+320202
+Agriculture/Farm financial statistics/Farm capital
+Agriculture/Statistiques financières des exploitations agricoles/Capital agricole
+320204
+Agriculture/Farm financial statistics/Farm and off-farm income
+Agriculture/Statistiques financières des exploitations agricoles/Revenu agricole et non agricole
+320299
+Agriculture/Farm financial statistics/Other content related to Farm financial statistics
+Agriculture/Statistiques financières des exploitations agricoles/Autre contenu lié à Statistiques financières des exploitations agricoles
+320301
+Agriculture/Farms and farm operators/Demographic characteristics
+Agriculture/Exploitations et exploitants agricoles/Caractéristiques démographiques
+320302
+Agriculture/Farms and farm operators/Farm classification and type
+Agriculture/Exploitations et exploitants agricoles/Classification et type de ferme
+320399
+Agriculture/Farms and farm operators/Other content related to Farms and farm operators
+Agriculture/Exploitations et exploitants agricoles/Autre contenu lié à Exploitations et exploitants agricoles
+320401
+Agriculture/Livestock and aquaculture/Aquaculture
+Agriculture/Bétail et aquaculture/Aquaculture
+320402
+Agriculture/Livestock and aquaculture/Cattle, pigs and sheep
+Agriculture/Bétail et aquaculture/Bovins, porcs et moutons
+320403
+Agriculture/Livestock and aquaculture/Dairy products
+Agriculture/Bétail et aquaculture/Produits laitiers
+320404
+Agriculture/Livestock and aquaculture/Meat products
+Agriculture/Bétail et aquaculture/Produits de viande
+320405
+Agriculture/Livestock and aquaculture/Poultry and eggs
+Agriculture/Bétail et aquaculture/Volailles et oeufs
+320407
+Agriculture/Livestock and aquaculture/Fur, pelt and wool products
+Agriculture/Bétail et aquaculture/Produits des fourrures, peaux et laine
+320408
+Agriculture/Livestock and aquaculture/Alternative livestock
+Agriculture/Bétail et aquaculture/Espèces alternatives
+320499
+Agriculture/Livestock and aquaculture/Other content related to Livestock and aquaculture
+Agriculture/Bétail et aquaculture/Autre contenu lié à Bétail et aquaculture
+320601
+Agriculture/Land use and environmental practices/Environmental practices
+Agriculture/Utilisation des terres et pratiques environnementales/Pratiques environnementales
+320604
+Agriculture/Land use and environmental practices/Farm area, land tenure and land use
+Agriculture/Utilisation des terres et pratiques environnementales/Superficie agricole, mode d'occupation et utilisation des terres
+320606
+Agriculture/Land use and environmental practices/Water use and irrigation
+Agriculture/Utilisation des terres et pratiques environnementales/Utilisation de l'eau et irrigation
+320699
+Agriculture/Land use and environmental practices/Other content related to Land use and environmental practices
+Agriculture/Utilisation des terres et pratiques environnementales/Autre contenu lié à Utilisation des terres et pratiques environnementales
+330101
+Business performance and ownership/Business dynamics/Business adaptation and adjustment
+Rendement des entreprises et appartenance/Dynamique des entreprises/Adaptation et ajustement des entreprises
+330102
+Business performance and ownership/Business dynamics/Entry, exit, mergers and growth
+Rendement des entreprises et appartenance/Dynamique des entreprises/Création, disparitions, fusions et croissance
+330103
+Business performance and ownership/Business dynamics/Current business conditions
+Rendement des entreprises et appartenance/Dynamique des entreprises/Conditions actuelles des entreprises
+330104
+Business performance and ownership/Business dynamics/Regional and urban profiles
+Rendement des entreprises et appartenance/Dynamique des entreprises/Profils régionaux et urbains
+330105
+Business performance and ownership/Business dynamics/Small and medium sized business
+Rendement des entreprises et appartenance/Dynamique des entreprises/Petites et moyennes entreprises
+330199
+Business performance and ownership/Business dynamics/Other content related to Business dynamics
+Rendement des entreprises et appartenance/Dynamique des entreprises/Autre contenu lié à Dynamique des entreprises
+330201
+Business performance and ownership/Business ownership/Foreign and domestic control
+Rendement des entreprises et appartenance/Propriété des entreprises/Contrôle étranger et canadien
+330202
+Business performance and ownership/Business ownership/Multinationals
+Rendement des entreprises et appartenance/Propriété des entreprises/Multinationales
+330299
+Business performance and ownership/Business ownership/Other content related to Business ownership
+Rendement des entreprises et appartenance/Propriété des entreprises/Autre contenu lié à Propriété des entreprises
+330301
+Business performance and ownership/Financial statements and performance/Corporate taxation
+Rendement des entreprises et appartenance/États financiers et rendement/Fiscalité des entreprises
+330302
+Business performance and ownership/Financial statements and performance/Financial institutions and intermediaries
+Rendement des entreprises et appartenance/États financiers et rendement/Institutions et intermédiaires financiers
+330303
+Business performance and ownership/Financial statements and performance/Financial performance
+Rendement des entreprises et appartenance/États financiers et rendement/Performance financière
+330304
+Business performance and ownership/Financial statements and performance/Financial markets
+Rendement des entreprises et appartenance/États financiers et rendement/Marchés financiers
+330305
+Business performance and ownership/Financial statements and performance/Operating statistics
+Rendement des entreprises et appartenance/États financiers et rendement/Statistiques d'exploitation
+330399
+Business performance and ownership/Financial statements and performance/Other content related to Financial statements and performance
+Rendement des entreprises et appartenance/États financiers et rendement/Autre contenu lié à États financiers et rendement
+350101
+Crime and justice/Correctional services/Adult correctional services
+Crime et justice/Services correctionnels/Services correctionnels pour adultes
+350102
+Crime and justice/Correctional services/Youth correctional services
+Crime et justice/Services correctionnels/Services correctionnels pour jeunes
+350199
+Crime and justice/Correctional services/Other content related to Correctional services
+Crime et justice/Services correctionnels/Autre contenu lié à Services correctionnels
+350201
+Crime and justice/Courts/Adult criminal courts
+Crime et justice/Tribunaux/Tribunaux criminels pour adultes
+350202
+Crime and justice/Courts/Civil courts
+Crime et justice/Tribunaux/Tribunaux civils
+350203
+Crime and justice/Courts/Youth courts
+Crime et justice/Tribunaux/Tribunaux de la jeunesse
+350204
+Crime and justice/Courts/Legal aid
+Crime et justice/Tribunaux/Aide juridique
+350299
+Crime and justice/Courts/Other content related to Courts
+Crime et justice/Tribunaux/Autre contenu lié à Tribunaux
+350302
+Crime and justice/Crimes and offences/Hate crimes
+Crime et justice/Crimes et infractions/Crimes haineux
+350303
+Crime and justice/Crimes and offences/Homicides
+Crime et justice/Crimes et infractions/Homicides
+350304
+Crime and justice/Crimes and offences/Sexual assaults
+Crime et justice/Crimes et infractions/Agressions sexuelles
+350305
+Crime and justice/Crimes and offences/Crime rates
+Crime et justice/Crimes et infractions/Taux de criminalité
+350306
+Crime and justice/Crimes and offences/Crime Severity Index
+Crime et justice/Crimes et infractions/Indice de gravité de la criminalité
+350399
+Crime and justice/Crimes and offences/Other content related to Crimes and offences
+Crime et justice/Crimes et infractions/Autre contenu lié à Crimes et infractions
+350501
+Crime and justice/Victimization/Family violence
+Crime et justice/Victimisation/Violence familiale
+350502
+Crime and justice/Victimization/Transition homes
+Crime et justice/Victimisation/Maisons d'hébergement
+350503
+Crime and justice/Victimization/Victim services
+Crime et justice/Victimisation/Services aux victimes
+350504
+Crime and justice/Victimization/Victimization of children and youth
+Crime et justice/Victimisation/Victimisation des enfants et jeunes
+350505
+Crime and justice/Victimization/Victimization of seniors
+Crime et justice/Victimisation/Victimisation des aînés
+350506
+Crime and justice/Victimization/Victimization of women
+Crime et justice/Victimisation/Victimisation des femmes
+350599
+Crime and justice/Victimization/Other content related to Victimization
+Crime et justice/Victimisation/Autre contenu lié à Victimisation
+360301
+Economic accounts/Government finance statistics/Government financial flows and balance sheets
+Comptes économiques/Finances publiques/Flux financiers et bilan des administrations publiques
+360302
+Economic accounts/Government finance statistics/Government revenue and expenditures
+Comptes économiques/Finances publiques/Recettes et dépenses des administrations publiques
+360399
+Economic accounts/Government finance statistics/Other content related to Government finance statistics
+Comptes économiques/Finances publiques/Autre contenu lié à Finances publiques
+360401
+Economic accounts/International accounts/Balance of international payments
+Comptes économiques/Comptes internationaux/Balance des paiements internationaux
+360402
+Economic accounts/International accounts/International investment position
+Comptes économiques/Comptes internationaux/Bilan des investissements internationaux
+360403
+Economic accounts/International accounts/International trade in services
+Comptes économiques/Comptes internationaux/Commerce international de services
+360404
+Economic accounts/International accounts/International transactions in securities
+Comptes économiques/Comptes internationaux/Opérations internationales en valeurs mobilières
+360405
+Economic accounts/International accounts/Portfolio investment abroad
+Comptes économiques/Comptes internationaux/Investissements de portefeuille à l'étranger
+360499
+Economic accounts/International accounts/Other content related to International accounts
+Comptes économiques/Comptes internationaux/Autre contenu lié à Comptes intrernationaux
+360501
+Economic accounts/National accounts and Gross Domestic Product/Financial flows and national balance sheet accounts
+Comptes économiques/Comptes nationaux et produit intérieur brut/Comptes des flux financiers et du bilan national
+360502
+Economic accounts/National accounts and Gross Domestic Product/Gross Domestic Product by income and by expenditure accounts
+Comptes économiques/Comptes nationaux et produit intérieur brut/Produit intérieur brut en termes de revenus et de dépenses
+360503
+Economic accounts/National accounts and Gross Domestic Product/Gross Domestic Product by industry accounts
+Comptes économiques/Comptes nationaux et produit intérieur brut/Produit intérieur brut par comptes des industries
+360504
+Economic accounts/National accounts and Gross Domestic Product/Supply and use tables
+Comptes économiques/Comptes nationaux et produit intérieur brut/Tableaux des ressources et des emplois
+360599
+Economic accounts/National accounts and Gross Domestic Product/Other content related to National accounts and Gross Domestic Product
+Comptes économiques/Comptes nationaux et produit intérieur brut/Autre contenu lié à Comptes nationaux et produit intérieur brut
+360601
+Economic accounts/Productivity accounts/Labour productivity
+Comptes économiques/Comptes de la productivité/Productivité du travail
+360602
+Economic accounts/Productivity accounts/Multifactor productivity
+Comptes économiques/Comptes de la productivité/Productivité multifactorielle
+360699
+Economic accounts/Productivity accounts/Other content related to Productivity accounts
+Comptes économiques/Comptes de la productivité/Autre contenu lié à Comptes de la productivité
+360801
+Economic accounts/Satellite accounts/Culture accounts
+Comptes économiques/Comptes satellites/Compte satellite de la culture
+360802
+Economic accounts/Satellite accounts/Pension accounts
+Comptes économiques/Comptes satellites/Compte satellite des pensions
+360803
+Economic accounts/Satellite accounts/Tourism accounts
+Comptes économiques/Comptes satellites/Compte satellite du tourisme
+360804
+Economic accounts/Satellite accounts/Underground economy
+Comptes économiques/Comptes satellites/Économie souterraine
+360805
+Economic accounts/Satellite accounts/Natural resources accounts
+Comptes économiques/Comptes satellites/Compte satellite des ressources naturelles
+360806
+Economic accounts/Satellite accounts/Cannabis accounts
+Comptes économiques/Comptes satellites/Compte satellite du cannabis
+360899
+Economic accounts/Satellite accounts/Other content related to Satellite accounts
+Comptes économiques/Comptes satellites/Autre contenu lié à Comptes satellites
+370201
+Education, training and learning/Financial resources invested in education/Financial resources invested in elementary and secondary education
+Éducation, formation et apprentissage/Ressources financières investies dans l'éducation/Ressources financières investies dans l'enseignement primaire et secondaire
+370202
+Education, training and learning/Financial resources invested in education/Financial resources invested in postsecondary education
+Éducation, formation et apprentissage/Ressources financières investies dans l'éducation/Ressources financières investies dans l'enseignement postsecondaire
+370299
+Education, training and learning/Financial resources invested in education/Other content related to Financial resources invested in education
+Éducation, formation et apprentissage/Ressources financières investies dans l'éducation/Autre contenu lié à Ressources financières investies dans l'éducation
+370301
+Education, training and learning/Education indicators/Characteristics of the school-age population, indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Caractéristiques de la population d'âge scolaire, indicateurs
+370302
+Education, training and learning/Education indicators/Elementary and secondary education, indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Études primaires et secondaires, indicateurs
+370303
+Education, training and learning/Education indicators/Financing of education systems, indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Financement des systèmes d'éducation, indicateurs
+370304
+Education, training and learning/Education indicators/Postsecondary education, indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Études postsecondaires, indicateurs
+370305
+Education, training and learning/Education indicators/Transitions and outcomes, indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Transitions et résultats, indicateurs
+370399
+Education, training and learning/Education indicators/Other education indicators
+Éducation, formation et apprentissage/Indicateurs de l'éducation/Autres indicateurs de l'éducation
+371401
+Education, training and learning/Elementary and secondary education/Enrolments and attendance, elementary and secondary
+Éducation, formation et apprentissage/Études primaires et secondaires/Effectifs et fréquentation scolaire, études primaires et secondaires
+371402
+Education, training and learning/Elementary and secondary education/Graduates, elementary and secondary
+Éducation, formation et apprentissage/Études primaires et secondaires/Diplômés, études primaires et secondaires
+371403
+Education, training and learning/Elementary and secondary education/Teachers and educators
+Éducation, formation et apprentissage/Études primaires et secondaires/Enseignants et éducateurs
+371499
+Education, training and learning/Elementary and secondary education/Other content related to Elementary and secondary education
+Éducation, formation et apprentissage/Études primaires et secondaires/Autre contenu lié à Études primaires et secondaires
+371501
+Education, training and learning/Postsecondary education/Enrolments and attendance, postsecondary
+Éducation, formation et apprentissage/Études postsecondaires/Effectifs et fréquentation scolaire, études postsecondaires
+371502
+Education, training and learning/Postsecondary education/Faculty and teachers
+Éducation, formation et apprentissage/Études postsecondaires/Corps professoral et enseignants
+371503
+Education, training and learning/Postsecondary education/Field of study
+Éducation, formation et apprentissage/Études postsecondaires/Domaines d'études
+371504
+Education, training and learning/Postsecondary education/Graduates, postsecondary
+Éducation, formation et apprentissage/Études postsecondaires/Diplômés, études secondaires
+371505
+Education, training and learning/Postsecondary education/Location of study
+Éducation, formation et apprentissage/Études postsecondaires/Lieu des études
+371506
+Education, training and learning/Postsecondary education/Student financial assistance and debt
+Éducation, formation et apprentissage/Études postsecondaires/Aide financière aux études et endettement étudiant
+371508
+Education, training and learning/Postsecondary education/Tuition and other fees
+Éducation, formation et apprentissage/Études postsecondaires/Frais de scolarité et autres frais
+371599
+Education, training and learning/Postsecondary education/Other content related to Postsecondary education
+Éducation, formation et apprentissage/Études postsecondaires/Autre contenu lié à Études secondaires
+380403
+Environment/Natural resources/Land and forests
+Environnement/Ressources naturelles/Terres et forêts
+380404
+Environment/Natural resources/Water
+Environnement/Ressources naturelles/Eau
+380405
+Environment/Natural resources/Energy and mineral resources
+Environnement/Ressources naturelles/Ressources énergétiques et minérales
+380499
+Environment/Natural resources/Other content related to Natural resources
+Environnement/Ressources naturelles/Autre contenu lié à Ressources naturelles
+380701
+Environment/Pollution and waste/Accidents involving dangerous goods
+Environnement/Pollution et déchets/Accidents impliquant des marchandises dangereuses
+380703
+Environment/Pollution and waste/Greenhouse gases
+Environnement/Pollution et déchets/Gaz à effet de serre
+380704
+Environment/Pollution and waste/Waste management
+Environnement/Pollution et déchets/Gestion des déchets
+380799
+Environment/Pollution and waste/Other content related to Pollution and waste
+Environnement/Pollution et déchets/Autre contenu lié à Pollution et déchets
+420101
+Children and youth/Child development and behaviour/Healthy behaviours among youth
+Enfants et jeunes/Développement et comportement de l'enfant/Comportements de santé chez les jeunes
+420102
+Children and youth/Child development and behaviour/Risk behaviours among youth
+Enfants et jeunes/Développement et comportement de l'enfant/Comportements à risque chez les jeunes
+420103
+Children and youth/Child development and behaviour/Self-perceptions among youth
+Enfants et jeunes/Développement et comportement de l'enfant/Autoperceptions chez les jeunes
+420104
+Children and youth/Child development and behaviour/Home life among youth
+Enfants et jeunes/Développement et comportement de l'enfant/Vie familiale chez les jeunes
+420199
+Children and youth/Child development and behaviour/Other content related to Child development and behaviour
+Enfants et jeunes/Développement et comportement de l'enfant/Autre contenu lié à Développement et comportement de l'enfant
+430501
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Education, training and skills
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Éducation, formation et compétences
+430502
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Families and households
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Familles et ménages
+430503
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Health and well-being of immigrants
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Santé et bien-être des immigrants
+430504
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Labour and income
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Travail et revenu
+430506
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Languages of immigrants
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Langues des immigrants
+430507
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Population, demography and place of birth
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Population, démographie et lieu de naissance
+430508
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Immigration status and period of immigration
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Statut d'immigration et période d'immigration
+430599
+Immigration and ethnocultural diversity/Immigrants and non-permanent residents/Other content related to Immigrants and non-permanent residents
+Immigration et diversité ethnoculturelle/Immigrants et résidents non permanents/Autre contenu lié à Immigrants et résidents non permanents
